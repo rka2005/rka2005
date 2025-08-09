@@ -1,6 +1,10 @@
 <!-- Profile Banner -->
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:ff6ec4,100:7873f5&height=230&section=header&text=Rohit%20Kumar%20Adak&fontSize=48&fontColor=fff&animation=fadeIn&fontAlignY=40)
 
+<p align="center">
+  <img src="https://sdmntpritalynorth.oaiusercontent.com/files/00000000-b5ac-6246-a7ff-0b2b359065e0/raw?se=2025-08-09T09%3A10%3A50Z&sp=r&sv=2024-08-04&sr=b&scid=c9943fe0-868a-53b8-b4ef-8a39b5d6a994&skoid=f71d6506-3cac-498e-b62a-67f9228033a9&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-08-08T16%3A46%3A43Z&ske=2025-08-09T16%3A46%3A43Z&sks=b&skv=2024-08-04&sig=jIbEG0hSTF6znpFXebZ9R/6jAyzs%2BJmH62SFEnOv0mI%3D" width="400" alt="Coffee Animation"/>
+</p>
+
 <!-- Typing animation -->
 <p align="center">
   <a href="https://git.io/typing-svg">
