@@ -1,16 +1,18 @@
-## Hi there 👋
+# ​ Hi, I'm Rohit Kumar Adak
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&center=true&width=700&height=60&lines=Hi+I'm+Rohit+Adak;Ethical+Hacker+%7C+Creative+Coder)
 
-<!--
-**rka2005/rka2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build secure, creative tools that make a difference.  
+🌱 Currently exploring React, FastAPI, and ethical hacking.
 
-Here are some ideas to get you started:
+---
+###  Featured Project
+- **Crash-Detection-Software** – Detects scooter crashes and alerts hospitals instantly.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+###  Skills
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+
+---
+###  GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rka2005&show_icons=true&theme=radical)
