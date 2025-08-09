@@ -1,35 +1,40 @@
-# ​ Hi, I'm Rohit Kumar Adak
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&center=true&width=700&height=60&lines=Hi+I'm+Rohit+Adak;Ethical+Hacker+%7C+Creative+Coder)
+<h1 align="center">Hi 👋, I'm Rohit Kumar Adak</h1>
+<h3 align="center">A Passionate Ethical Hacker & Developer from India</h3>
 
-I build secure, impactful tools—from crash detection to study companions.  
-🌱 Learning advanced Python, React & ethical hacking techniques.
-
----
-
-###  Featured Projects
-| Project | Description | Highlight |
-|--------|-------------|-----------|
-| **Crash-Detection-Software** | Detects bike/scooter crashes → auto alerts nearest hospital. | Life-saving real-time alert demo GIF |
-| **ISL_backend** | [Brief description of purpose or tech stack] | Python + FastAPI (or similar) |
-| **GoalMine (Frontend & Backend)** | Forked project—frontend and backend work. | Clean UI / full-stack integration |
-| **EzStudyAI** | AI-powered study assistant. | Screenshot or demo GIF |
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif">
 
 ---
 
-###  Tech Stack & Interests
-![Python](https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/React-hooks-blue?style=for-the-badge&logo=react)
-![FastAPI](https://img.shields.io/badge/FastAPI-modern-cyan?style=for-the-badge)
+### 🚀 About Me
+- 🔭 I’m currently working on **AI Assistants, Web Development, and Cybersecurity**
+- 🌱 I’m learning **React, FastAPI, and Advanced Ethical Hacking**
+- 💬 Ask me about **Python, JavaScript, Cybersecurity, AI**
+- ⚡ Fun fact: **I can hack, but I prefer to code 😉**
 
 ---
 
-###  GitHub Stats
-![stats](https://github-readme-stats.vercel.app/api?username=rka2005&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rka2005&layout=compact&theme=radical)
+### 🛠️ Languages and Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,react,fastapi,kali,git,github,vscode" />
+</p>
 
 ---
 
-###  Connect with Me
-[![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram)](https://www.instagram.com/rohitadak0)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook)](https://www.facebook.com/rohit.adak.969300)
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rka2005&show_icons=true&theme=tokyonight" alt="stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rka2005&theme=tokyonight" alt="streak" />
+</p>
+
+---
+
+### 🌐 Connect with Me
+<p align="left">
+<a href="https://linkedin.com/in/your-linkedin" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="mailto:your-email@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+<a href="https://instagram.com/your-instagram" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+</p>
+
+---
+
+⭐ **From [Rohit Kumar Adak](https://github.com/rka2005)**
