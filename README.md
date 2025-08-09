@@ -1,82 +1,50 @@
-<!-- Profile Banner -->
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:ff6ec4,100:7873f5&height=230&section=header&text=Rohit%20Kumar%20Adak&fontSize=48&fontColor=fff&animation=fadeIn&fontAlignY=40)
-
-<!-- Typing animation -->
+<!-- Header Banner -->
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C3FF&center=true&vCenter=true&width=700&lines=Ethical+Hacker;Full-Stack+Developer;Creative+Coder;Always+Learning+New+Things"/>
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F76C6C&center=true&vCenter=true&width=500&lines=Hey+there!+👋;I'm+Rohit+Kumar+Adak;Welcome+to+my+GitHub!" alt="Typing SVG" />
 </p>
 
 ---
 
-## 👨‍💻 About Me  
-- 🔒 Ethical Hacker passionate about **security, AI, and automation**  
-- 🌐 Building creative full-stack projects with **React + FastAPI + Python**  
-- 🛠 Exploring **AI assistants**, **automation tools**, and **cybersecurity scripts**  
-- 🎯 Goal: To make the web a **safer and smarter place**  
-- ⚡ Fun fact: *I turn coffee into code* ☕💻  
+## 👨‍💻 About Me
+- 🚀 **B.Tech 2nd Year Student** | Passionate about Web Development & AI  
+- 💻 Loves experimenting with **Python, JavaScript, and React**  
+- 🛡️ Ethical Hacker & Cybersecurity Enthusiast  
+- 📍 From India 🇮🇳  
 
 ---
 
-## 🚀 Tech Stack  
+## ☕ Coffee With Me  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,react,fastapi,kali,html,css,git,github,vscode" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDh2d2JzYzU3ZDJ3dnJqZGE3Z3VwN3FlcXc1Z2dqcTlyNHc0dDVuaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coffee Animation"/>
+</p>  
+
+> "Let’s have a coffee and talk about tech, ideas, and crazy projects!"  
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rka2005&show_icons=true&theme=tokyonight" alt="GitHub stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rka2005&theme=tokyonight" alt="GitHub Streak"/>
 </p>
 
 ---
 
-## 📌 Featured Projects  
-
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">🚦 Crash Detection Software</h3>
+## 🛠 Tech Stack
 <p align="center">
-<a href="https://github.com/rka2005/Crash-Detection-Software" target="_blank">
-<img src="https://github.com/rka2005/Crash-Detection-Software/raw/main/demo.gif" width="95%" alt="Crash Detection">
-</a>
-<br><em>Detects vehicle crashes and sends alerts instantly.</em>
-</p>
-</td>
-
-<td width="50%">
-<h3 align="center">🤖 Neura AI Assistant</h3>
-<p align="center">
-<a href="https://github.com/rka2005/Neura-AI" target="_blank">
-<img src="https://github.com/rka2005/Neura-AI/raw/main/interface.gif" width="95%" alt="Neura AI">
-</a>
-<br><em>Holographic AI assistant with Python + Web UI.</em>
-</p>
-</td>
-</tr>
-</table>
-
----
-
-## 📊 GitHub Analytics  
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=rka2005&show_icons=true&theme=radical" height="170em"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=rka2005&theme=radical" height="170em"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rka2005&layout=compact&theme=radical" height="170em"/>
+  <img src="https://skillicons.dev/icons?i=python,js,react,html,css,fastapi,kali,git,github,vscode" />
 </p>
 
 ---
 
-## 🏆 GitHub Achievements  
+## 📫 Connect With Me
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rka2005&theme=radical&row=1&column=6" />
+  <a href="https://linkedin.com/in/your-linkedin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
-## 🐍 Contribution Snake  
 <p align="center">
-  <img src="https://github.com/rka2005/rka2005/blob/output/github-contribution-grid-snake.svg" alt="snake">
+  <i>Thanks for visiting my profile! 😄</i>
 </p>
-
----
-
-<!-- Footer -->
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:ff6ec4,100:7873f5&height=120&section=footer)
