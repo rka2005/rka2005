@@ -47,7 +47,7 @@
 <td width="50%">
 <h3 align="center">🚦 Crash Detection Software</h3>
 <p align="center">
-<a href="https://github.com/rka2005/Crash-Detection-Software" target="_blank">
+<a href="https://github.com/rka2005/Crash-Detection-Softaware/blob/main/SOS_system.txt" target="_blank">
 <img src="https://github.com/rka2005/Crash-Detection-Software/raw/main/demo.gif" width="95%" alt="Crash Detection">
 </a>
 <br><em>Detects vehicle crashes and sends alerts instantly.</em>
@@ -57,8 +57,8 @@
 <td width="50%">
 <h3 align="center">🤖 Neura AI Assistant</h3>
 <p align="center">
-<a href="https://github.com/rka2005/Neura-AI" target="_blank">
-<img src="https://github.com/rka2005/Neura-AI/raw/main/interface.gif" width="95%" alt="Neura AI">
+<a href="https://github.com/rka2005/Nura-AI" target="_blank">
+<img src="https://github.com/rka2005/Nura-AI/blob/main/Recording%202025-08-21%20134709.gif" width="95%" alt="Neura AI">
 </a>
 <br><em>Holographic AI assistant with Python + Web UI.</em>
 </p>
