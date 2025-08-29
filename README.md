@@ -48,7 +48,7 @@
 <h3 align="center">🚦 Crash Detection Software</h3>
 <p align="center">
 <a href="https://github.com/rka2005/Crash-Detection-Softaware/blob/main/SOS_system.txt" target="_blank">
-<img src="https://github.com/rka2005/Crash-Detection-Software/raw/main/demo.gif" width="95%" alt="Crash Detection">
+<img src="https://www.hashstudioz.com/blog/wp-content/uploads/2024/04/Automatic-Vehicle-Accident-Detection-And-Rescue-System.webp" width="95%" alt="Crash Detection">
 </a>
 <br><em>Detects vehicle crashes and sends alerts instantly.</em>
 </p>
