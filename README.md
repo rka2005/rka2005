@@ -8,7 +8,7 @@
 <!-- Typing animation -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=3000&pause=1000&color=2C90FC&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%F0%9F%9A%80;Backend+Engineer+%E2%9A%99%EF%B8%8F;API+Architect+%F0%9F%94%A7;Creative+Coder+%F0%9F%94%92;Open+to+Remote+%26+Freelance+Work+%F0%9F%8C%8D" />
+    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=3000&pause=1000&color=2C90FC&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%F0%9F%9A%80;Backend+Engineer+%E2%9A%99%EF%B8%8F;Designer+&+Architecture+%F0%9F%94%A7;Creative+Coder+%F0%9F%94%92;Open+to+Remote+%26+Freelance+Work+%F0%9F%8C%8D" />
   </a>
 </p>
 
@@ -27,7 +27,7 @@
 
 ## 👋 Hey, I'm Rohit
 
-I'm a **B.Tech 3rd Year student** who doesn't wait to graduate before building real things.
+I'm a **B.Tech 4th Year student** who doesn't wait to graduate before building real things.
 
 I write backends that don't fall over, frontends that don't annoy people, and I'm obsessed with the intersection of **AI, automation, and security**. I've shipped projects that solve actual problems — from real-time crash detection systems to a holographic AI assistant built from scratch.
 
