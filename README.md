@@ -112,16 +112,20 @@ If you need someone who can own a full feature end-to-end — from database desi
 <tr>
 <td width="50%" valign="top">
 
-### 🚦 Crash Detection Software
-**Real-time vehicle accident detection system** that triggers automated SOS alerts using sensor data analysis.
+### 🚦 AquaWatch
+**Real-time Water monitoring & Maintaining system** that monitors groundwater-level data, analyzes trends, and provides actionable insights for efficient water-resource management.
 
-- Instant crash event classification
-- Automated emergency contact notification
-- Lightweight enough to run on embedded hardware
+- Real-time groundwater monitoring using DWLR sensor data
+- Water-level trend analysis to identify rising, falling, and critical groundwater conditions
+- Automated alerts for abnormal or critical water-level changes
+- Location-based monitoring to visualize groundwater conditions across different regions
+- Data-driven analysis for identifying groundwater depletion patterns
+- Lightweight and scalable architecture suitable for continuous monitoring and deployment
 
-**Stack:** `Python` `Signal Processing` `Automation`
+**Stack:** `React` `TypeScript` `Python` `FastAPI` `Firebase` `Data Analytics` `Automation`
 
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github)](https://github.com/rka2005/Crash-Detection-Softaware)
+[![Live](https://img.shields.io/badge/Live%20Demo-22c55e?style=for-the-badge&logo=vercel&logoColor=white)]([https://qshareio.vercel.app](https://aquawatch-v1.vercel.app)
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github)]([https://github.com/rka2005/Crash-Detection-Softaware](https://github.com/rka2005/AquaWatch_1.0)
 
 </td>
 <td width="50%" valign="top">
