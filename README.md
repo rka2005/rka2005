@@ -124,8 +124,8 @@ If you need someone who can own a full feature end-to-end — from database desi
 
 **Stack:** `React` `TypeScript` `Python` `FastAPI` `Firebase` `Data Analytics` `Automation`
 
-[![Live](https://img.shields.io/badge/Live%20Demo-22c55e?style=for-the-badge&logo=vercel&logoColor=white)]([https://qshareio.vercel.app](https://aquawatch-v1.vercel.app)
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github)]([https://github.com/rka2005/Crash-Detection-Softaware](https://github.com/rka2005/AquaWatch_1.0)
+[![Live](https://img.shields.io/badge/Live%20Demo-22c55e?style=for-the-badge&logo=vercel&logoColor=white)](https://aquawatch-v1.vercel.app)
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github)](https://github.com/rka2005/AquaWatch_1.0)
 
 </td>
 <td width="50%" valign="top">
