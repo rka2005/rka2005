@@ -171,11 +171,30 @@ If you need someone who can own a full feature end-to-end — from database desi
 
 ---
 
-## 🏆 Trophies
+## My Contribution
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rka2005&theme=radical&row=1&column=6" />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/rka2005/rka2005/output/github-dragon-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/rka2005/rka2005/output/github-dragon.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/rka2005/rka2005/output/github-dragon.svg"
+      width="100%"
+      alt="Rohit's GitHub contribution dragon"
+    />
+  </picture>
 </p>
+
+<p align="center">
+  <b>Fire & fuel</b>
+</p>
+
 
 ---
 
